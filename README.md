@@ -2,23 +2,26 @@
 
 Meu nome é **Eduardo Nathan Santos Menezes da Silva**, pros mais chegados conhecido como **Ed**, tenho 18 anos, vou fazer 19 no **dia 18 de janeiro**.
 
-## Onde moro?
+## Onde moro? 👀 
 
 Moro atualmente em __Carapícuiba__, essa cidade aí na imagem abaixo.
-![image](https://user-images.githubusercontent.com/77402911/104601635-38cd7880-5659-11eb-95aa-0ebeed84270d.png)
 
-Mas nem sempre morei aqui, nasci em Barueri mas fui criado em **Osasco, Munhoz Júnior**. 
+<img align="center" width="550" height="300" src="https://user-images.githubusercontent.com/77402911/104644907-2705c880-568d-11eb-9f95-0d2d8e75fccb.png">
 
-![image](https://user-images.githubusercontent.com/77402911/104601946-9e216980-5659-11eb-9701-7ecb12036d7d.png)
 
-## O que gosto de fazer?
+Mas nem sempre morei aqui, nasci em Barueri mas fui criado em **Osasco, Munhoz Júnior, ZO**. 
+
+<img align="center" width="550" height="300" src="https://user-images.githubusercontent.com/77402911/104645004-4a307800-568d-11eb-847e-cf66237ea01f.png">
+
+
+## O que gosto de fazer? 🤔
 
 - **Ouvir música** 👂🎶
 - **Jogar fortnite** 🎮😡
 - **Aprender algo novo** 😏💻
 - **Desenhar no Paint toolsai** 🙌✏️ 
 
-## Top 10 Músicas que mais escuto
+## Top 10 Músicas que mais escuto 🎶
 
 Posição | Nome da Música
 :--------:|:-----------:|
